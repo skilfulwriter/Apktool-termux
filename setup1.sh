@@ -212,3 +212,4 @@ else
 	install_deps_kali
     do_patches_kali
 fi
+echo -e "\e[1;34m[√] \e[96mNow run bash apktool.sh \e[0m"
