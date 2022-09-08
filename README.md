@@ -28,7 +28,7 @@
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
-* `git clone https://github.com/h4ck3r0/Apktool-termux`
+* `git clone https://github.com/skilfulwriter/Apktool-termux`
 * `cd $HOME`
 * `ls`
 * `cd Apktool-termux`
