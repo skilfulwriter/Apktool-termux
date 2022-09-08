@@ -89,5 +89,5 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/loginx202266fb40)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://rebrand.ly/h4ck3r-5064aa)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/termuxcoding3d8527)
-<a href="[https://rebrand.ly/7elzgww](https://www.youtube.com/channel/UCWNUjpHSID8PlZ4B5R34lkQ)"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
+<a href="[https://rebrand.ly/7elzgww](https://www.youtube.com/channel/UCWNUjpHSID8PlZ4B5R34lkQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
 
